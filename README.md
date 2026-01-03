@@ -1,4 +1,5 @@
 Files named "generatingOHgaussianloop", "COgaussianloop", "HIplotsandgauss" are all gaussian loops that only need to be ran once. 
+    
     Note "generatingOHgaussianloop" includes generated loop of the plots of baselines too
     Will create folders dedicated to baselines (for OH only) and gaussians (for OH, CO, and HI). 
     Whenever the code needs to be tweaked, delete the plots in the folders created in computer, and rerun the code to avoid possible overlap of data
